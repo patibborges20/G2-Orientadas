@@ -1,0 +1,14 @@
+c:\users\patricia\documents\visual studio 2013\Projects\ProjetoADO\FarroupilhasAdo\bin\Debug\FarroupilhasAdo.dll
+c:\users\patricia\documents\visual studio 2013\Projects\ProjetoADO\FarroupilhasAdo\bin\Debug\FarroupilhasAdo.pdb
+c:\users\patricia\documents\visual studio 2013\Projects\ProjetoADO\FarroupilhasAdo\obj\Debug\FarroupilhasAdo.dll
+c:\users\patricia\documents\visual studio 2013\Projects\ProjetoADO\FarroupilhasAdo\obj\Debug\FarroupilhasAdo.pdb
+C:\Users\patricia\Documents\Visual Studio 2013\Projects\ProjetoADO\FarroupilhasAdo\obj\Debug\FarroupilhasAdo.csprojResolveAssemblyReference.cache
+C:\Users\patricia\Documents\Visual Studio 2013\Projects\ProjetoADO-Patricia\FarroupilhasAdo\bin\Debug\FarroupilhasAdo.dll
+C:\Users\patricia\Documents\Visual Studio 2013\Projects\ProjetoADO-Patricia\FarroupilhasAdo\bin\Debug\FarroupilhasAdo.pdb
+C:\Users\patricia\Documents\Visual Studio 2013\Projects\ProjetoADO-Patricia\FarroupilhasAdo\obj\Debug\FarroupilhasAdo.dll
+C:\Users\patricia\Documents\Visual Studio 2013\Projects\ProjetoADO-Patricia\FarroupilhasAdo\obj\Debug\FarroupilhasAdo.pdb
+C:\Users\patricia\Documents\Visual Studio 2013\Projects\TrabG2-PetProtect\FarroupilhasAdo\bin\Debug\FarroupilhasAdo.dll
+C:\Users\patricia\Documents\Visual Studio 2013\Projects\TrabG2-PetProtect\FarroupilhasAdo\bin\Debug\FarroupilhasAdo.pdb
+C:\Users\patricia\Documents\Visual Studio 2013\Projects\TrabG2-PetProtect\FarroupilhasAdo\obj\Debug\FarroupilhasAdo.csprojResolveAssemblyReference.cache
+C:\Users\patricia\Documents\Visual Studio 2013\Projects\TrabG2-PetProtect\FarroupilhasAdo\obj\Debug\FarroupilhasAdo.dll
+C:\Users\patricia\Documents\Visual Studio 2013\Projects\TrabG2-PetProtect\FarroupilhasAdo\obj\Debug\FarroupilhasAdo.pdb
